@@ -2,7 +2,7 @@ import ystockquote
 import sqlite3
 import time
 import datetime
-
+#test123
 conn=sqlite3.connect('StockMarketDB3.db')
 c=conn.cursor() # make c our cursor
 c.execute('CREATE TABLE IF NOT EXISTS stuffToPlot4(unix REAL,date TEXT,stockName TEXT,open REAL,close REAL,low REAL,high REAL,lastPrice REAL)')
