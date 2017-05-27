@@ -1,6 +1,6 @@
 """
 Yahoo! Python SDK
-f
+sss lior toli
  * Yahoo! Query Language
  * Yahoo! Social API
 
